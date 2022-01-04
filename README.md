@@ -1,3 +1,11 @@
+### 'task details'
+In this task shown set of images and vedios.
+if you hover on images. then details will be visible.
+and when you hover on the vedios. then the vedio auto-play and details will be visible
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
